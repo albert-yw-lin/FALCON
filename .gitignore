@@ -53,7 +53,6 @@ humanoidverse/data/Recorded/
 humanoidverse/data/AMASS/
 AMASS/*
 
-*.sh
 *.txt
 *.zip
 
